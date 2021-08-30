@@ -3,13 +3,13 @@
 ### Hi there, I'm [Mehmet](https://mehmetilkman.com)! 👋
 
 <a href="https://www.instagram.com/mehmetilkman">
-  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/instagram.svg" />
+  <img align="left" alt="Instagram" width="21px" src="https://cdn.ilkman.com/logo/instagram.png" />
 </a>
 <a href="https://twitter.com/ilkmancyp">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://cdn.ilkman.com/logo/twitter.png" />
 </a>
 <a href="https://dsc.gg/cyprus">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/discord.svg" />
+  <img align="left" alt="Discord" width="21px" src="https://cdn.ilkman.com/logo/icon_clyde_blurple_RGB.png" />
 </a>
 
 <br />
