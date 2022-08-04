@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-🚧 _Developer_ in progress...
+🚧 _Developer_ in progress...<br>
 📍 Based in Cyprus
 
 ### 👀 Catch me up on
