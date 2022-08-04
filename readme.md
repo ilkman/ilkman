@@ -1,3 +1,9 @@
-# Hello world!
+# 👋 Hello world!
 
-## Welcome to my profile!
+🚧 _Developer_ in progress...
+
+### 👀 Catch me up on
+
+- [**📸 Instagram**](https://www.instagram.com/benilkman)
+- [**🐤 Twitter**](https://www.instagram.com/ilkmancyp)
+- [🧑‍💻 Or visit my **website**](https://www.ilkman.net)
