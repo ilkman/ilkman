@@ -19,7 +19,7 @@
             </td>
         </tr>
     </table>
-    <table style="border-spacing:5px; border: none;">
+    <table style="border-spacing:5px; border: none; text-align:center;">
         <tr>
             <td style="padding=0;width=35%;">
                 <img alt="Last.fm recently played" style="padding=0;" src="https://lastfm-recently-played.vercel.app/api?user=ilkman&count=3&width=600" />
